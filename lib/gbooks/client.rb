@@ -1,6 +1,9 @@
+require 'net/http'
+require 'json'
+
 module Gbooks
   class Client
-    class ConnectionError < StandardError; end
+    class UnexpectedResponseError < StandardError; end
 
     attr_reader :base_uri
 
@@ -14,9 +17,9 @@ module Gbooks
       uri = URI(URI.encode(endpoint))
       response = Net::HTTP.get_response(uri)
 
-      raise ConnectionError if response.code != 200
+      raise UnexpectedResponseError if response.code != '200'
 
-      response.body
+      JSON.parse(response.body)
     end
   end
 end

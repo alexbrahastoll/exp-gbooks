@@ -9,7 +9,7 @@ RSpec.describe Gbooks::Client do
         client = Gbooks::Client.new
         search = 'Mémoires de la vie privée de Benjamin Franklin'
         uri = URI(URI.encode("https://www.googleapis.com/books/v1/volumes?q=#{search}"))
-        fake_response = FakeHTTPResponse.new(nil, 200)
+        fake_response = FakeHTTPResponse.new('{ "key": "value" }', '200')
 
         expect(Net::HTTP).to receive(:get_response).with(uri).and_return(fake_response)
 
@@ -17,15 +17,16 @@ RSpec.describe Gbooks::Client do
       end
     end
 
-    context 'when there is a connection issue' do
+    context 'when there is an issue with the response' do
       it 'does raise an error' do
         client = Gbooks::Client.new
         search = 'Mémoires de la vie privée de Benjamin Franklin'
         uri = URI(URI.encode("https://www.googleapis.com/books/v1/volumes?q=#{search}"))
-        fake_response = FakeHTTPResponse.new(nil, 500)
+        fake_response = FakeHTTPResponse.new('{ "key": "value" }', '500')
         allow(Net::HTTP).to receive(:get_response).with(uri).and_return(fake_response)
 
-        expect { client.search_volumes(search) }.to raise_error(Gbooks::Client::ConnectionError)
+        expect { client.search_volumes(search) }.to \
+          raise_error(Gbooks::Client::UnexpectedResponseError)
       end
     end
   end
