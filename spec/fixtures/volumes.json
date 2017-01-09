@@ -1,0 +1,706 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 428,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "wrOQLV6xB-wC",
+   "etag": "UgIkmVuuCwU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wrOQLV6xB-wC",
+   "volumeInfo": {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "authors": [
+     "J.K. Rowling"
+    ],
+    "publisher": "Pottermore",
+    "publishedDate": "2015-12-08",
+    "description": "\"Turning the envelope over, his hand trembling, Harry saw a purple wax seal bearing a coat of arms; a lion, an eagle, a badger and a snake surrounding a large letter 'H'.\" Harry Potter has never even heard of Hogwarts when the letters start dropping on the doormat at number four, Privet Drive. Addressed in green ink on yellowish parchment with a purple seal, they are swiftly confiscated by his grisly aunt and uncle. Then, on Harry's eleventh birthday, a great beetle-eyed giant of a man called Rubeus Hagrid bursts in with some astonishing news: Harry Potter is a wizard, and he has a place at Hogwarts School of Witchcraft and Wizardry. An incredible adventure is about to begin!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781781100486"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1781100489"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 309,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 314,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.14.13.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=wrOQLV6xB-wC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=wrOQLV6xB-wC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=wrOQLV6xB-wC&dq=harry+potter+and+the+philosopher's+stone&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=wrOQLV6xB-wC&dq=harry+potter+and+the+philosopher's+stone&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Harry_Potter_and_the_Sorcerer_s_Stone.html?hl=&id=wrOQLV6xB-wC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=wrOQLV6xB-wC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot;Turning the envelope over, his hand trembling, Harry saw a purple wax seal bearing a coat of arms; a lion, an eagle, a badger and a snake surrounding a large letter &#39;H&#39;.&quot; Harry Potter has never even heard of Hogwarts when the letters start ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Ab-cPQAACAAJ",
+   "etag": "n7FcG9wIPug",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Ab-cPQAACAAJ",
+   "volumeInfo": {
+    "title": "Harry Potter",
+    "authors": [
+     "J. K. Rowling"
+    ],
+    "publishedDate": "2007-11-19",
+    "description": "Hardcover editions of all seven bestselling Harry Potter titles are included in this boxed set: Harry Potter and the Philosopher's Stone, Harry Potter and the Chamber of Secrets, Harry Potter and the Prisoner of Azkaban, Harry Potter and the Goblet of Fire, Harry Potter and the Order of the Phoenix, Harry Potter and the Half-Blood Prince, Harry Potter and the Deathly Hallows.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1551929120"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781551929125"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "averageRating": 4.5,
+    "ratingsCount": 8,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Ab-cPQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Ab-cPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=Ab-cPQAACAAJ&dq=harry+potter+and+the+philosopher's+stone&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=Ab-cPQAACAAJ&dq=harry+potter+and+the+philosopher's+stone&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Harry_Potter.html?hl=&id=Ab-cPQAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=Ab-cPQAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Hardcover editions of all seven bestselling Harry Potter titles are included in this boxed set: Harry Potter and the Philosopher&#39;s Stone, Harry Potter and the Chamber of Secrets, Harry Potter and the Prisoner of Azkaban, Harry Potter and ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FMkKogEACAAJ",
+   "etag": "Z9k1AcSa7Q8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FMkKogEACAAJ",
+   "volumeInfo": {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "authors": [
+     "J. K. Rowling"
+    ],
+    "publisher": "Bloomsbury Childrens",
+    "publishedDate": "2015-01-29",
+    "description": "Irish language edition of J.K. Rowling's classic, reissued with stunning new Jonny Duddle covers to captivate a new generation of Irish language learners",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1408866196"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781408866191"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 272,
+    "printType": "BOOK",
+    "averageRating": 4.5,
+    "ratingsCount": 15,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=FMkKogEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=FMkKogEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=FMkKogEACAAJ&dq=harry+potter+and+the+philosopher's+stone&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=FMkKogEACAAJ&dq=harry+potter+and+the+philosopher's+stone&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Harry_Potter_and_the_Philosopher_s_Stone.html?hl=&id=FMkKogEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=FMkKogEACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&#39;Bhí cónaí ar mhuintir Dursley in uimhir a ceathair Privet Drive .&#39;The first words of J.K. Rowling&#39;s timeless classic are familiar to readers the world over as &#39;Mr and Mrs Dursley, of number four, Privet Drive ."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "08oSEcILTcYC",
+   "etag": "EjJ8f2LXNXA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/08oSEcILTcYC",
+   "volumeInfo": {
+    "title": "Harry Potter and the Philosopher's Stone - Adapting a book into a film and its consequences",
+    "authors": [
+     "Claudia Stehr"
+    ],
+    "publisher": "GRIN Verlag",
+    "publishedDate": "2007-05-13",
+    "description": "Seminar paper from the year 2004 in the subject English Language and Literature Studies - Literature, grade: 2,0, Technical University of Braunschweig (Englisches Seminar), course: British Popular Culture, 14 entries in the bibliography, language: English, abstract: When adapting a book into a film, different decisions have to be made concerning the narration, tense, point of view, and other formal devices. (Cf. Whelehan 1999: 9) This essay examines the differences and similarities between the novel Harry Potter and the Philosopher’s Stone and its film adaptation. It points out problems that occur when transposing a text to screen, and raises the question of the film’s authenticity towards the novel. Firstly, different critics are going to be scrutinized to get a better understanding of the discrepancy between literary criticism and film studies. Secondly, the characteristics of each medium shall be pointed at, combined with possible arising advantages and disadvantages. The following section evaluates the fictional source Harry Potter and the Philosopher’s Stone versus the filmic source, asking the question of the primary importance of the origin text. For a concise analysis of book and film, I provide a sequence protocol and chapter record in the appendix. Lastly, I want to consider the issue of popular culture, and examine the question of the demand of popular literature to be turned into a film. The focus of examination will always be the first Harry Potter book and film version, although some references to the later volumes are made. Yet, it would go beyond the scope of this paper to consider all written and filmic sources of the Harry Potter phenomenon.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783638744652"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3638744655"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 25,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.11.12.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=08oSEcILTcYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=08oSEcILTcYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=08oSEcILTcYC&printsec=frontcover&dq=harry+potter+and+the+philosopher's+stone&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=08oSEcILTcYC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-08oSEcILTcYC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 47.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 47.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=08oSEcILTcYC&rdid=book-08oSEcILTcYC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.799E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.799E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Harry_Potter_and_the_Philosopher_s_Stone-sample-epub.acsm?id=08oSEcILTcYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Harry_Potter_and_the_Philosopher_s_Stone-sample-pdf.acsm?id=08oSEcILTcYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=08oSEcILTcYC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Whelehan 1999: 9) This essay examines the differences and similarities between the novel Harry Potter and the Philosopher’s Stone and its film adaptation."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WiL2vPZ4wH8C",
+   "etag": "w5kMUU4P7Zk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WiL2vPZ4wH8C",
+   "volumeInfo": {
+    "title": "Harry Potter and the Philosopher's Stone - Literature in the English Classroom",
+    "authors": [
+     "Jeannette Nedoma",
+     "Rebecca Elisabeth Meyer"
+    ],
+    "publisher": "GRIN Verlag",
+    "publishedDate": "2009-05-01",
+    "description": "Seminar paper from the year 2007 in the subject English - Literature, Works, grade: 1,0, Ernst Moritz Arndt University of Greifswald (Anglistik/ Amerikanistik), language: English, abstract: Table of contents 1 Why do we have to teach literature? 1.1 Tasks of literature: Cultural Enrichment, Language Enrichment, Personal Involvement 1.2 Teaching fiction in school 1.3 Criteria for text selection 2 The phenomenon Harry Potter\" 2.1 Task proposals to teach Harry Potter\" 3 Reading activities 3.1 Pre-reading activities 3.2 While-reading activities 3.3 Post-reading activities 4 Conclusion about teaching Harry Potter 5 5. Bibliography 5.1 Book sources 5.2 Internet sources\"",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783640315765"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3640315766"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 76,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.6.4.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=WiL2vPZ4wH8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=WiL2vPZ4wH8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=WiL2vPZ4wH8C&printsec=frontcover&dq=harry+potter+and+the+philosopher's+stone&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=WiL2vPZ4wH8C&dq=harry+potter+and+the+philosopher's+stone&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Harry_Potter_and_the_Philosopher_s_Stone.html?hl=&id=WiL2vPZ4wH8C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=WiL2vPZ4wH8C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Seminar paper from the year 2007 in the subject English - Literature, Works, grade: 1,0, Ernst Moritz Arndt University of Greifswald (Anglistik/ Amerikanistik), language: English, abstract: Table of contents 1 Why do we have to teach ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QCp6PQAACAAJ",
+   "etag": "E4zYa9muxzQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QCp6PQAACAAJ",
+   "volumeInfo": {
+    "title": "Harry Potter Boxed Set",
+    "subtitle": "Harry Potter and the Sorcerer's Stone; Harry Potter and the Chamber of Secrets; Harry Potter and the Prisoner of Azkaban",
+    "authors": [
+     "J. K. Rowling"
+    ],
+    "publisher": "Arthur A. Levine Books",
+    "publishedDate": "2002-01-01",
+    "description": "The magical books that started it all are now available in paperback in a set of three: \"Harry Potter and the Sorcerer's Stone; Harry Potter and the Chamber of Secrets\"; and \"Harry Potter and the Prisoner of Azkaban.\"",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0439324661"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780439324663"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=QCp6PQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=QCp6PQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=QCp6PQAACAAJ&dq=harry+potter+and+the+philosopher's+stone&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=QCp6PQAACAAJ&dq=harry+potter+and+the+philosopher's+stone&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Harry_Potter_Boxed_Set.html?hl=&id=QCp6PQAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=QCp6PQAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The magical books that started it all are now available in paperback in a set of three: Harry Potter and the Sorcerer&#39;s Stone; Harry Potter and the Chamber of Secrets; and Harry Potter and the Prisoner of Azkaban."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zLJFPgAACAAJ",
+   "etag": "Qy+UBkU2CJE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zLJFPgAACAAJ",
+   "volumeInfo": {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "authors": [
+     "Joanne Kathleen Rowling"
+    ],
+    "publishedDate": "2002-10-18",
+    "description": "An adult edition of the hugely popular book. Find out how Harry discovers his true heritage at Hogwarts School of Wizardry and Witchcraft, the reason behind his parents mysterious death, who is out to kill him, and how he uncovers the most fabled secret of all time.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1551926121"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781551926124"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Children's stories"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 14,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=zLJFPgAACAAJ&dq=harry+potter+and+the+philosopher's+stone&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=zLJFPgAACAAJ&dq=harry+potter+and+the+philosopher's+stone&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Harry_Potter_and_the_Philosopher_s_Stone.html?hl=&id=zLJFPgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=zLJFPgAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "An adult edition of the hugely popular book."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Af5UvgAACAAJ",
+   "etag": "3qeL54rHyTs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Af5UvgAACAAJ",
+   "volumeInfo": {
+    "title": "Harry Potter and the Philosopher's Stone - Slytherin Edition",
+    "authors": [
+     "J. K. Rowling"
+    ],
+    "publisher": "Bloomsbury Childrens",
+    "publishedDate": "2017-06-01",
+    "description": "Celebrate 20 years of Harry Potter magic with four special editions of Harry Potter and the Philosopher's Stone .Gryffindor, Slytherin, Hufflepuff, Ravenclaw ... Twenty years ago these magical words and many more flowed from a young writer's pen, an orphan called Harry Potter was freed from the cupboard under the stairs - and a global phenomenon started. Harry Potter and the Philosopher's Stone has been read and loved by every new generation since. To mark the 20th anniversary of first publication, Bloomsbury is publishing four House Editions of J.K. Rowling's modern classic. These stunning editions will each feature the individual house crest on the jacket and sprayed edges in the house colours. Exciting new extra content will include fact files, profiles of favourite characters and line illustrations exclusive to that house. Available for a limited period only, these highly collectable editions will be a must-have for all Harry Potter fans in 2017.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1408883759"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781408883754"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 368,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Af5UvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Af5UvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=Af5UvgAACAAJ&dq=harry+potter+and+the+philosopher's+stone&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=Af5UvgAACAAJ&dq=harry+potter+and+the+philosopher's+stone&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Harry_Potter_and_the_Philosopher_s_Stone.html?hl=&id=Af5UvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=Af5UvgAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Exciting new extra content will include fact files, profiles of favourite characters and line illustrations exclusive to that house. These limited editions will be a must-have for all Harry Potter fans."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lfYuvgAACAAJ",
+   "etag": "0Y4Ol+JuP9U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lfYuvgAACAAJ",
+   "volumeInfo": {
+    "title": "Harry Potter and the Philosopher's Stone - Gryffindor Edition",
+    "authors": [
+     "J. K. Rowling"
+    ],
+    "publishedDate": "2017-06-01",
+    "description": "Celebrate 20 years of Harry Potter magic with four special editions of Harry Potter and the Philosopher's Stone .Gryffindor, Slytherin, Hufflepuff, Ravenclaw ... Twenty years ago these magical words and many more flowed from a young writer's pen, an orphan called Harry Potter was freed from the cupboard under the stairs - and a global phenomenon started. Harry Potter and the Philosopher's Stone has been read and loved by every new generation since. To mark the 20th anniversary of first publication, Bloomsbury is publishing four House Editions of J.K. Rowling's modern classic. These stunning editions will each feature the individual house crest on the jacket and sprayed edges in the house colours. Exciting new extra content will include fact files, profiles of favourite characters and line illustrations exclusive to that house. Available for a limited period only, these highly collectable editions will be a must-have for all Harry Potter fans in 2017.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1408883740"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781408883747"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 368,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=lfYuvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=lfYuvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=lfYuvgAACAAJ&dq=harry+potter+and+the+philosopher's+stone&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=lfYuvgAACAAJ&dq=harry+potter+and+the+philosopher's+stone&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Harry_Potter_and_the_Philosopher_s_Stone.html?hl=&id=lfYuvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=lfYuvgAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Exciting new extra content will include fact files, profiles of favourite characters and line illustrations exclusive to that house. These limited editions will be a must-have for all Harry Potter fans."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "uOoyvgAACAAJ",
+   "etag": "9dok4UWf+N4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/uOoyvgAACAAJ",
+   "volumeInfo": {
+    "title": "Harry Potter and the Philosopher's Stone - Hufflepuff Edition",
+    "authors": [
+     "J. K. Rowling"
+    ],
+    "publisher": "Bloomsbury Childrens",
+    "publishedDate": "2017-06-01",
+    "description": "Celebrate 20 years of Harry Potter magic with four special editions of Harry Potter and the Philosopher's Stone .Gryffindor, Slytherin, Hufflepuff, Ravenclaw ... Twenty years ago these magical words and many more flowed from a young writer's pen, an orphan called Harry Potter was freed from the cupboard under the stairs - and a global phenomenon started. Harry Potter and the Philosopher's Stone has been read and loved by every new generation since. To mark the 20th anniversary of first publication, Bloomsbury is publishing four House Editions of J.K. Rowling's modern classic. These stunning editions will each feature the individual house crest on the jacket and sprayed edges in the house colours. Exciting new extra content will include fact files, profiles of favourite characters and line illustrations exclusive to that house. Available for a limited period only, these highly collectable editions will be a must-have for all Harry Potter fans in 2017.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1408883791"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781408883792"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 368,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=uOoyvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=uOoyvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=uOoyvgAACAAJ&dq=harry+potter+and+the+philosopher's+stone&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=uOoyvgAACAAJ&dq=harry+potter+and+the+philosopher's+stone&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Harry_Potter_and_the_Philosopher_s_Stone.html?hl=&id=uOoyvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=uOoyvgAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "These stunning editions will each feature the individual house crest on the jacket and sprayed edges in the house colours."
+   }
+  }
+ ]
+}
