@@ -1,0 +1,26 @@
+#!/usr/bin/env ruby
+
+require_relative '../lib/gbooks'
+
+with_error = 1
+search_query = ARGV[0]
+presenter = Gbooks::Presenter.new(STDOUT)
+
+if search_query.nil?
+  presenter.puts('Usage: supply a search query to see a list of books that match against it.')
+  presenter.puts('Example: bin/gbooks "how to win friends and influence people"')
+  exit(with_error)
+end
+
+client = Gbooks::Client.new
+presenter.puts('...')
+begin
+  results = client.search_volumes(search_query)
+
+  volumes = results['items']
+  presenter.puts("First books for \"#{search_query}\":")
+  presenter.print_volumes(volumes)
+rescue StandardError
+  presenter.puts('Sorry, there was a problem while connecting to the Google Books API.')
+  exit(with_error)
+end

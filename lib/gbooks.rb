@@ -1,2 +1,2 @@
-require 'gbooks/client'
-require 'gbooks/presenter'
+require_relative 'gbooks/client'
+require_relative 'gbooks/presenter'
