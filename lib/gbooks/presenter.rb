@@ -8,9 +8,13 @@ module Gbooks
       @out = out
     end
 
+    def puts(text)
+      out.puts(text)
+    end
+
     def print_volumes(volumes)
       if volumes.nil?
-        out.write('No results were found.')
+        puts('No results were found.')
         return
       end
 
@@ -18,7 +22,7 @@ module Gbooks
         volumes.map.with_index do |volume, i|
           "#{i + 1}: #{volume['volumeInfo']['title']}"
         end.join("\n")
-      out.write(volumes_list)
+      puts(volumes_list)
     end
   end
 end

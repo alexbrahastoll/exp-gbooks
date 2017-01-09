@@ -11,7 +11,7 @@ RSpec.describe Gbooks::Presenter do
           "3: Harry Potter and the Philosopher's Stone"
         presenter = Gbooks::Presenter.new(output_stream)
 
-        expect(output_stream).to receive(:write).with(expected_output)
+        expect(output_stream).to receive(:puts).with(expected_output)
 
         presenter.print_volumes(volumes)
       end
@@ -24,7 +24,7 @@ RSpec.describe Gbooks::Presenter do
         expected_output = 'No results were found.'
         presenter = Gbooks::Presenter.new(output_stream)
 
-        expect(output_stream).to receive(:write).with(expected_output)
+        expect(output_stream).to receive(:puts).with(expected_output)
 
         presenter.print_volumes(volumes)
       end
